@@ -1,0 +1,15 @@
+{
+ "lr": 0.0005,
+ "layers": 3,
+ "input_shape": [
+  60,
+  148,
+  1
+ ],
+ "if_dropout": 0.1,
+ "filters": 10,
+ "epochs": 100,
+ "drop_out": 0.2,
+ "dense_layer_sizes": 128,
+ "batch_size": 16
+}
